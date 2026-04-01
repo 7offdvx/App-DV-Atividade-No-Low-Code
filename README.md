@@ -7,6 +7,7 @@ Este projeto foi desenvolvido como parte da disciplina de desenvolvimento **No/L
 A aplicação foi criada do zero com o objetivo de demonstrar a construção de interfaces modernas(layout), navegação entre telas e integração com API externa e menu lateral.
 
 **Faculdade Impacta e Tecnologia**
+
 **Sistemas de Informação**
 
 ---
