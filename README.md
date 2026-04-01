@@ -105,8 +105,8 @@ flutter run
 
 ## 👨‍💻 Integrantes
 
-* Davi Diniz do Nascimento | RA: 2602060
-* Vitor Sousa Oliveira | RA: 2601963
+* Davi Diniz do Nascimento
+* Vitor Sousa Oliveira 
 
 
 ---
