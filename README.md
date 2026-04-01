@@ -17,8 +17,6 @@ A aplicação foi criada do zero com o objetivo de demonstrar a construção de 
 
 ---
 
----
-
 ## 🎯 Objetivo
 
 Desenvolver uma aplicação funcional utilizando ferramentas No/Low-Code, envolvendo:
