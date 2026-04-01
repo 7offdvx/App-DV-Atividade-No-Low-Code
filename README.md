@@ -6,6 +6,8 @@ Este projeto foi desenvolvido como parte da disciplina de desenvolvimento **No/L
 
 A aplicação foi criada do zero com o objetivo de demonstrar a construção de interfaces modernas(layout), navegação entre telas e integração com API externa e menu lateral.
 
+Obs: O nome do app é baseado nas letra D e V, de acordo com as iniciais dos nomes dos desenvolvedores.
+
 **Faculdade Impacta e Tecnologia**
 
 ---
